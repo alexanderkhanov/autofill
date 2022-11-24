@@ -1,3 +1,2 @@
 # autofill
-
-This is the description of the autofill package.
+This package was last updated 2022-11-24
